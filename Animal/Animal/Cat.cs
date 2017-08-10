@@ -8,5 +8,6 @@ namespace Animal
 {
     class Cat
     {
+
     }
 }
