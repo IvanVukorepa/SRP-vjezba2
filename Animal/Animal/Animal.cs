@@ -10,6 +10,6 @@ namespace Animal
     {
         public string Name;
         public string Sound;
-        public string Species;s
+        public string Species;
     }
 }
